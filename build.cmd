@@ -1,0 +1,1 @@
+dotnet publish -a x64 -p:PublishSingleFile=true

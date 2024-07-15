@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemShockPatcher", "SystemShockPatcher.csproj", "{2AB8291A-60FA-45A9-ABA9-0F479DE6E1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB8291A-60FA-45A9-ABA9-0F479DE6E1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB8291A-60FA-45A9-ABA9-0F479DE6E1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB8291A-60FA-45A9-ABA9-0F479DE6E1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB8291A-60FA-45A9-ABA9-0F479DE6E1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB8291A-60FA-45A9-ABA9-0F479DE6E1D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
